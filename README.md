@@ -1,3 +1,3 @@
-# RichardWyeth.github.io
+# lugosibalint.github.io
 Learning stuff for students
 
